@@ -1,0 +1,64 @@
+Changelogs:
+
+Oring 1.0.8 Changelogs:
+[UPDATE] Dayz 1.7.6
+[Changed] Buggy_DZ got know Working Guns
+
+Oring 1.0.7 Changelogs:
+[UPDATE] Dayz 1.7.5.2 HOTFIX
+[Changed] M107 (Removed)
+[Changed] CH47 WeaponTransport 20 AmmoTransport 60
+[Changed] AlicePack WeaponTransport 2 Gear 20
+[Changed] Hero Skin (GSG9)
+[LOOT] Skin_police1_DZ, Skin_police2_DZ, Skin_civilian2-5_DZ
+[NEW] Bunker Spawnen Loot (NEW)
+[NEW] All Buildings are now spawning Loot
+[Changed] Zombie Combat wurde auf 15 Sekunden gesetzt!
+[NEW Weapon] KPFS_KarS - KPFS_10Rnd_762x39_SKS - HelliCrash
+[NEW Weapon] KPFS_MG1 - KPFS_120Rnd_MG1 - HelliCrash
+[NEW Weapon] KPFS_P88 - 15Rnd_9x19_M9 - Residential/Civilian Loot
+[NEW Weapon] KPFS_PM63 - KPFS_25Rnd_pm - Military Loot
+[NEW Weapon] KPFS_MP5A3SD - 30Rnd_9x19_MP5SD - HelliCrash
+[NEW Weapon] KPFS_P226 - kpfs_15Rnd_9x19
+[FIXED] Bandit/Hero Skin change after +/- Humanity
+[FIXED] Choop Wood is now working
+
+
+DayZ Oring v1.0.6
+Based on Dayz 1.7.5 Stable
+Map Oring by Bloodric
+
+Changelogs:
+[Fixed] CH47 Soundbug
+[Fixed] G3 Mag Loot - Fixed
+[Fixed] Rocket Vehicles Removed
+[New] Tentstorage Named: Storagebox
+[New] Vehicle Buggy_DZ
+[New] Vehicle Gyrocopter
+[New] DayZ 1.7.5 includet
+[New Weapon] AK_107_pso
+[New Weapon] M4A1_RCO_GL
+[New Weapon] M4SPR
+[New Weapon] SVD_des_EP1
+
+DayZ Oring v1.0.4
+Based on Dayz 1.7.4.4 Stable
+Map Oring by Bloodric
+
+[REMOVED] AS50 Removed from Lootable
+[NEW] Buildings now Spawming Loot
+[ADDED] Hospitals and Stors Added to Map
+[ADDED] Vehicle Spawn Addet to Map
+[NEW] CH47_DZ Vehicle Added
+[CHANGED] Chamo1_DZ Model Changed
+[NEW] Origin_Ikarus Vehicle Added
+[NEW] HMMWV_DZ Vehicle Added
+[NEW] HMMWV_Ambulance_DZ Added
+[NEW]  Survivor Models Added
+[CHANGED] Bandit Skin
+[NEW] Bundeswehr Skin (Loot at Helicrash)
+[NEW] Weapon C1987_G3_aimshot (Loot at Military Spawn) (Mag: 20Rnd_762x51_g3)
+[NEW] Weapon C1987_G3_acog (Loot at Military Spawn) (Mag: 20Rnd_762x51_g3)
+[NEW] Weapon FW Steiner (Loot at Supermarket)
+[CHANGED] Food Lootbalancing
+[NEW] Debug Monitor Readdet 

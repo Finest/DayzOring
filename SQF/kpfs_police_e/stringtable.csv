@@ -1,0 +1,74 @@
+﻿LANGUAGE,English,German
+
+//Classes
+STR_KPFS_POLICE_NEW,Police (2005),Polizei (2005)
+STR_KPFS_POLICE_CAR_NEW,Car (blue),Radfahrzeuge (blau)
+STR_KPFS_POLICE_VEST_NEW,Police (Sommer),Polizei (Sommer)
+STR_KPFS_FEDERAL_POLICE,Federal Police,Bundespolizei
+STR_KPFS_POLICE_AIR,Air (Police),Luftfahrzeuge (Polizei)
+STR_KPFS_POLICE_SPECIAL,Special (Police),Spezial (Polizei)
+STR_KPFS_GSG9_MEN_NEW,Men (GSG9),Männer (GSG9)
+STR_KPFS_VPK_MEN_DDR,Service Unit IX,Dienstgruppe IX
+
+//Names
+STR_KPFS_POLICEMAN,Policeman,Polizist
+STR_KPFS_POLICEMAN_SH,Policeman (Schlesw.-Holst.),Polizist (SH)
+STR_KPFS_POLICEMAN_HH,Policeman (Hamburg),Polizist (HH)
+STR_KPFS_POLICEMAN_HB,Policeman (Bremen),Polizist (HB)
+STR_KPFS_POLICEMAN_NI,Policeman (Lower Saxony),Polizist (NI)
+STR_KPFS_POLICEMAN_MV,Policeman (Meckl.-Vorp.),Polizist (MV)
+STR_KPFS_POLICEMAN_B,Policeman (Berlin),Polizist (Berlin)
+STR_KPFS_POLICEMAN_BB,Policeman (Brandenburg),Polizist (BB)
+STR_KPFS_POLICEMAN_NRW,Policeman (North.Westfalia),Polizist (NRW)
+STR_KPFS_POLICEMAN_RP,Policeman (Rhineland Pfalz),Polizist (RP)
+STR_KPFS_POLICEMAN_SL,Policeman (Saar),Polizist (Saarland)
+STR_KPFS_POLICEMAN_SA,Policeman (Saxony Anhalt),Polizist (Sachsen Anhalt)
+STR_KPFS_POLICEMAN_TH,Policeman (Thuringa),Polizist (TH)
+STR_KPFS_POLICEMAN_SN,Policeman (Saxony),Polizist (Sachsen)
+STR_KPFS_POLICEMAN_HE,Policeman (Hessen),Polizist (Hessen)
+STR_KPFS_POLICEMAN_BW,Policeman (Baden),Polizist (Baden Würt.)
+STR_KPFS_POLICEMAN_BY,Policeman (Bavaria),Polizist (Bayern)
+STR_KPFS_POLICEMAN_BP,Federal Policeman,Bundespolizist (Streife)
+STR_KPFS_POLICEMAN_BPO,Federal Police Officer,Bundespolizist
+
+STR_KPFS_POL_PILOT,Pilot,Pilot
+STR_KPFS_POL_PILOT_SN,Pilot (Saxony),Pilot (Sachsen)
+
+STR_KPFS_W3,PZL W3,PZL W3
+STR_KPFS_W3_POLICE_SN,PZL W3 (green),PZL W3 (grün)
+STR_KPFS_W3_POLICE_SN_SILVER,PZL W3 (silver),PZL W3 (silber)
+STR_KPFS_W3_POLICE_SN_BLUE,PZL W3 (blue),PZL W3 (blau)
+
+STR_KPFS_GSG9_SOLDIER_NEW,Operator,Schütze
+STR_KPFS_GSG9_SOLDIER_MP5_NEW,Operator (MP5),Schütze (MP5)
+STR_KPFS_GSG9_SOLDIER_G36_NEW,Operator (G36C),Schütze (G36C)
+STR_KPFS_GSG9_SOLDIER_TL_NEW,Team Leader,Zugführer
+STR_KPFS_GSG9_OFFICER_NEW,Officer,Offizier
+STR_KPFS_GSG9_SOLDIER_SNIPER_NEW,Sniper,Scharfschütze
+STR_KPFS_GSG9_SOLDIER_AUG_NEW,Operator (AUG),Schütze (AUG)
+STR_KPFS_GSG9_SOLDIER_HK416_NEW,Operator (HK416),Schütze (HK416)
+
+STR_KPFS_VPK_SOLDIER,Operator,Schütze
+STR_KPFS_VPK_SOLDIER_PM,Operator (Makarov),Schütze (Makarow)
+STR_KPFS_VPK_SOLDIER_PM63,Operator (PM63),Schütze (PM63)
+STR_KPFS_VPK_SOLDIER_PM86,Operator (MPi-KMK),Schütze (MPi-KMK)
+STR_KPFS_VPK_SOLDIER_APS,Operator (APS),Schütze (APS)
+STR_KPFS_VPK_SOLDIER_SNIPER,Sniper,Scharfschütze
+
+STR_SKODA_OCTAVIA_BP,Skoda Octavia (Federal Police),Skoda Octavia (Bundespolizei)
+STR_SKODA_OCTAVIA_NI_B,Skoda Octavia (Lower Saxony),Skoda Octavia (Niedersachsen)
+STR_SKODA_OCTAVIA_SH_B,Skoda Octavia (Schlesw.-Holst.),Skoda Octavia (SH)
+STR_SKODA_OCTAVIA_HB_B,Skoda Octavia (Bremen),Skoda Octavia (Bremen)
+STR_SKODA_OCTAVIA_HH_B,Skoda Octavia (Hamburg),Skoda Octavia (Hamburg)
+STR_SKODA_OCTAVIA_MV_B,Skoda Octavia (MVP),Skoda Octavia (MVP)
+STR_SKODA_OCTAVIA_HE_B,Skoda Octavia (Hesse),Skoda Octavia (Hessen)
+STR_SKODA_OCTAVIA_SA_B,Skoda Octavia (Saxony-Anhalt),Skoda Octavia (Sachsen_Anhalt)
+STR_SKODA_OCTAVIA_BB_B,Skoda Octavia (Brandenburg),Skoda Octavia (Brandenburg)
+STR_SKODA_OCTAVIA_B_B,Skoda Octavia (Berlin),Skoda Octavia (Berlin)
+STR_SKODA_OCTAVIA_SN_B,Skoda Octavia (Saxony),Skoda Octavia (Sachsen)
+STR_SKODA_OCTAVIA_RP_B,Skoda Octavia (RP),Skoda Octavia (RP)
+STR_SKODA_OCTAVIA_NRW_B,Skoda Octavia (NRW),Skoda Octavia (NRW)
+STR_SKODA_OCTAVIA_TH_B,Skoda Octavia (Thüringen),Skoda Octavia (Thüringen)
+STR_SKODA_OCTAVIA_BW_B,Skoda Octavia (BW),Skoda Octavia (Baden-Württ.)
+STR_SKODA_OCTAVIA_BY_G,Skoda Octavia (Bavaria),Skoda Octavia (Bayern)
+STR_SKODA_OCTAVIA_SL_G,Skoda Octavia (Saar),Skoda Octavia (Saarland)

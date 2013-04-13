@@ -1,0 +1,10 @@
+Density = 600;
+Thickness = 20;
+rough = 0.100000;
+dust = 0;
+bulletPenetrability = 150;
+soundEnviron = "Empty";
+isWater = "false";
+friction = 0.700000;
+restitution = 0.400000;
+impact = "default_Mat";

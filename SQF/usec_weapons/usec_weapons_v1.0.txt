@@ -1,0 +1,36 @@
+************************
+USEC WEAPONS PACK V1.0
+
+Dated:	23 Sept 2009
+************************
+
+SUBMIT BUGS TO:
+http://trac2.assembla.com/usec/wiki/WikiStart
+
+************************
+
+Features:
+- Steyr AUG A1
+- Steyr AUG A1 with M203 Launcher
+- Steyr AUG A2 with 10x Scope and Tripod
+- Steyr AUG A2 with 10x Scope and M203 Launcher
+- USEC Weapons box with Ammo and Weapons
+
+Addons needed:
+- None
+
+Installation instructions:
+- Install as per normal ArmA2 addons
+- Under "Ammo" will see a create called "USEC Weapons"
+- Place USEC Weapons ammo crate in editor to access weapons
+
+Credits:
+- Dean "Rocket" Hall
+- USEC for testing
+
+Contact information:
+- www.usecforce.com
+- rocket2guns@gmail.com
+
+About the Author:
+- Rocket is a former Air Force Officer, turned Video Game Producer, who has now left the video game industry to become an NZ Army Officer.

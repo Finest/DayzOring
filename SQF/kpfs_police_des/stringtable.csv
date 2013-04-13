@@ -1,0 +1,10 @@
+﻿LANGUAGE,English,German
+
+//Classes
+STR_KPFS_POLICE_VEST_DES,Police (Desert),Polizei (Wüste)
+STR_KPFS_POLICE_CAR_DES,Policecars (Desert),Polizeifahrzeuge (Wüste)
+
+//Names
+STR_KPFS_POLICEMAN_VEST_DES,Policeman (Desert),Polizist (Wüste)
+STR_KPFS_POLICEMAN_VEST_DES_CAP,Policeman (Desert, cap),Polizist (Wüste, Cappy)
+STR_KPFS_POLICEMAN_VEST_DES_BERET,Police Officer (Desert),Polizeioffizier (Wüste)

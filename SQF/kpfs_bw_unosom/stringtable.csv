@@ -1,0 +1,29 @@
+﻿LANGUAGE,English,German
+
+//Classes
+STR_KPFS_BW_MEN_UN,Men (UNOSOM),Männer (UNOSOM)
+
+//Units
+STR_KPFS_BW_SOLDIER_UN,Soldier,Schütze
+STR_KPFS_BW_SOLDIER_UN_BOONIE,Soldier (boonie hat),Schütze (Buschhut)
+STR_KPFS_BW_SLEADER_UN,Squad Leader,Gruppenführer
+STR_KPFS_BW_TLEADER_UN,Team Leader,Truppführer
+STR_KPFS_BW_OFFICER_UN,Officer,Offizier
+STR_KPFS_BW_SOLDIER_UN_M62,Soldier (helmet),Schütze (Helm)
+
+STR_KPFS_BW_SOLDIER_UN_VEST,Soldier (vest),Schütze (Weste)
+STR_KPFS_BW_SOLDIER_UNVB,Soldier (vest/boonie),Schütze (Weste/Buschhut)
+STR_KPFS_BW_SLEADER_UN_VEST,Squad Leader (vest),Gruppenführer (Weste)
+STR_KPFS_BW_TLEADER_UN_VEST,Team Leader (vest),Truppführer (Weste)
+STR_KPFS_BH_OFFICER_UN_VEST,Officer (vest),Offizier (Weste)
+STR_KPFS_BW_SOLDIER_UN_M92,Soldier (vest/helmet),Schütze (Weste/Helm)
+
+STR_KPFS_BW_MEDIC_UN,Medic,Sanitäter
+STR_KPFS_BW_MPOLICE_UN,Military Policeman,Feldjäger
+STR_KPFS_BW_SOLDIER_LIGHT_UN,Soldier (light),Schütze (unbewaffnet)
+STR_KPFS_BW_PILOT_UN,Pilot,Pilot
+
+STR_KPFS_BW_SOLDIER_VESTC_UN,Soldier (vest/camo),Schütze (Weste/5FT)
+STR_KPFS_BW_SLEADER_VESTC_UN,Squad Leader (vest/camo),Gruppenführer (Weste/5FT)
+STR_KPFS_BW_TLEADER_VESTC_UN,Team Leader (vest/camo),Truppführer (Weste/5FT)
+STR_KPFS_BW_OFFICER_VESTC_UN,Officer (vest/camo),Offizier (Weste/5FT)
